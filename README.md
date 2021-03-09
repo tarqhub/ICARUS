@@ -20,4 +20,4 @@ Currently contains names of custom reactions for the !afk command
 
 !cmdchannel (channel name) - set what channel the bot can start an !afk from
 
-!setAfkChannel (channel name) - set what 
+!setAfkChannel (channel name) - set what channel the embed message from !afk will be posted to
