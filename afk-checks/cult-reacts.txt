@@ -1,0 +1,12 @@
+losthalls
+lhkey
+rusher
+warrior
+paladin
+knight
+trickster
+wizard
+mystic
+samurai
+ogmur
+qot
