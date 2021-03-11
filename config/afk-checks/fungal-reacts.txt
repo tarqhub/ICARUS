@@ -1,0 +1,13 @@
+fungal
+fckey
+warrior
+paladin
+knight
+trickster
+wizard
+mystic
+samurai
+priest
+ogmur
+qot
+slow
