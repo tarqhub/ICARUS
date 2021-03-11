@@ -3,6 +3,7 @@ import sys
 import os
 from discord.ext import commands
 from datetime import datetime
+import modules.permit as perm #pylint: disable=import-error
 
 class ChannelSetup(commands.Cog):
     def __init__(self, client):
